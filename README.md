@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=sqlite"/>
  </div>
 <div align="center" style="display: inline_block">
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhabuenav&count_bg=%23DB5012&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhabuenav&count_bg=%23DB5012&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
  </div>
 <a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&gradient&customColorList=0,2,2,5,30&height=140&section=footer"></a>
 

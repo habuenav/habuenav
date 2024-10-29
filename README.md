@@ -9,6 +9,7 @@
    I like writing programs, doing electronic projects, watching movies, listening to music, etc.
 <br>- 🔭 I’m currently working as an independent technician
 <br>- 🤔 I’m looking to form a community that uses the <a href="https://github.com/habuenav/samplerSynth/" onclick="return false;">samplerSynth</a>
+<br>- 🤔 I’m looking to form a community around of Proyect <a href="https://github.com/habuenav/HEWI/" onclick="return false;">HEWI</a>
 <br>- 💬 Ask me about my projects
 <br>- 📫 How to reach me: habuenav@hotmail.com
 <br>- ⚡ Fun fact: I have many project ideas, too many ideas but I have a hard time finishing them.
